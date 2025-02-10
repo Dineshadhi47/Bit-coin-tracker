@@ -1,0 +1,21 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 90vh;
+    background-image: url(bitcoin\ img.webp);
+    background-size: cover;
+    background-position: 25px;
+    background-position-x: left;
+}
+.container{
+    border-style: solid;
+    border-width: 2px;
+    border-radius: 10px;
+    text-align: center;
+    padding: 10px;
+    background-color: whitesmoke;
+}
+button{
+    background-color: red;
+}
